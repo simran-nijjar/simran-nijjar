@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm a university student majoring in Computer Science 💻 and Molecular Biology & Biochemistry 🧬
-- 📚 I'm currently learning about markov decision processes, reinforcement learning, anomaly detection in cybersecurity, and the x86-64 assembly language in my classes this semester
 - 👩‍💻 I have experience programming in C, C++, C#, Java, Python, Javascript
 - 💬 Reach out to me on linkedin: simran-nijjar-
 - 👀 Check out some of my group and personal projects that are public for viewing while I work on some private projects that are in the works

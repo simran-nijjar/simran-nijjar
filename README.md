@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a university student majoring in Computer Science 💻 and Molecular Biology & Biochemistry 🧬
-- 👩‍💻 I have experience programming in C, C++, C#, Java, Python, Javascript
+- 👩‍💻 I have experience programming in C++, C, C#, Java, JavaScript, Python, SQL, HTML, CSS, R
 - 💬 Reach out to me on linkedin: simran-nijjar-
 - 👀 Check out some of my group and personal projects that are public for viewing while I work on some private projects that are in the works
 

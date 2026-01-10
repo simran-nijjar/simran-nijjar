@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm a university student majoring in Computer Science 💻 and Molecular Biology & Biochemistry 🧬
-- 👩‍💻 I have experience programming in C++, C, C#, Java, JavaScript, Python, SQL, HTML, CSS, R
-- 💬 Reach out to me on linkedin: simran-nijjar-
-- 👀 Check out some of my group and personal projects that are public for viewing while I work on some private projects that are in the works
+I'm a Software Engineer with full-stack experience developing in ASP.NET CORE (.NET 8.0), React, SQL.
+- 🎓 I have a Bachelor of Science in Molecular Biology and Biochemistry and Computing Science (Joint Major) and a Certificate in Genomics
+- 👩‍💻 I have experience in C#, Java, C++, C JavaScript, Python, SQL, R, HTML, CSS, .NET 8.0, React, Express, gRPC, REST APIs, SQL Server, Azure Cosmos DB, Elasticsearch, Apache Kafka
+- 💬 Reach out to me on LinkedIn: [simran-nijjar-](https://www.linkedin.com/in/simran-nijjar-/)
+- 👀 Check out some of my projects
 
 <!--
 **simran-nijjar/simran-nijjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
